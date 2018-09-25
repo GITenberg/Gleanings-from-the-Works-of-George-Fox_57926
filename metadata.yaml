@@ -1,5 +1,8 @@
 _repo: Gleanings-from-the-Works-of-George-Fox_57926
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57926-h/images/cover-page.jpg
 creator:
   authors:
   - agent_name: Fox, George
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '1090'
     url: http://www.gutenberg.org/2009/agents/1090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57926#Gleanings-from-the-Works-of-George-Fox
 gutenberg_issued: '2018-09-18'
 gutenberg_type: Text
 identifiers:
