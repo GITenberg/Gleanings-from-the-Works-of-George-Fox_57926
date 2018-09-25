@@ -1,0 +1,32 @@
+_repo: Gleanings-from-the-Works-of-George-Fox_57926
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Fox, George
+    alias: Fox, G. (George)
+    birthdate: 1624
+    deathdate: 1691
+    gutenberg_agent_id: '41992'
+    url: http://www.gutenberg.org/2009/agents/41992
+  - agent_name: Richardson, Dorothy M. (Dorothy Miller)
+    aliases:
+    - Odle, Dorothy Miller Richardson
+    - Richardson, D. M. (Dorothy Miller)
+    - Richardson, Dorothy Miller
+    birthdate: 1873
+    deathdate: 1957
+    gutenberg_agent_id: '1090'
+    url: http://www.gutenberg.org/2009/agents/1090
+description: ''
+gutenberg_issued: '2018-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gleanings from the Works of George Fox
+url: http://www.gutenberg.org/ebooks/57926
